@@ -1,6 +1,21 @@
-body{
-  background:cornflowerblue;
+.header{
+  text-align:center;
+  color: black;
+  
+    
+  }
+.about-me{
+  font-size:20px;
+  opacity:50%;
 }
-h1 {
-  color:orange;
+.title{
+  font-weight:bold;
+}
+body{
+  color: black;
+  font-family: Georgia;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57N5nmCWkUnXgzV7xjhwd-FY7nVh2N01Z8GZMmapwnS35hnNwMA);
+}
+img {
+  width: 360px;
 }
